@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is <YOUR NAME>. I am currently working as <YOUR ROLE> at <COMPANY>.
+My name is Fakhruddin 'Ammar. I am currently working as Freelance Web Developer.
 
 I love learning new things and improving my skills 🚀
 
 ### 🔗 Connect with me
-- 🌐 Portfolio:
+- 🌐 Portfolio: 
 - 💼 LinkedIn:
 - 🐦 Twitter:
 
