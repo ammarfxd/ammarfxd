@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ammarfxd/ammarfxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is <YOUR NAME>. I am currently working as <YOUR ROLE> at <COMPANY>.
 
-Here are some ideas to get you started:
+I love learning new things and improving my skills 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+- 🌐 Portfolio:
+- 💼 LinkedIn:
+- 🐦 Twitter:
+
+### ⚡ Technologies
+![HTML](https://img.shields.io/badge/HTML-<COLOR>.svg)
+![CSS](https://img.shields.io/badge/CSS-<COLOR>.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-<COLOR>.svg)
